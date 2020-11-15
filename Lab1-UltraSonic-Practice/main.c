@@ -1,6 +1,4 @@
 /* Necessary Headers Include */
-#include <stdio.h>
-#include <stdlib.h>
 #include "embARC.h"
 #include "embARC_debug.h"
 
